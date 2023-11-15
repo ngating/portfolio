@@ -33,7 +33,7 @@ bower_components/
 .env
 
 # Ignore the compiled output of TypeScript files
-*.js
+# *.js
 
 # Ignore the output of Prettier
 prettier-debug.log
